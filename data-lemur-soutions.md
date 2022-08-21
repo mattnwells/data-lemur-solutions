@@ -1,4 +1,4 @@
-#DataLemur SQL Problems
+# DataLemur SQL Problems
 
 Solutions to DataLemur SQL exercises. 
 
